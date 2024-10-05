@@ -1,2 +1,8 @@
-# school__java___Supplier-Management-System
- HAU Finals OOP Groupwork
+# Supplier Management System
+- A Finals OOP Project for group 8
+
+## File Organization
+```groovy
+SystemCore
+|- 
+```
